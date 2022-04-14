@@ -1,11 +1,5 @@
-## My Project
+# Write prepared data directly into JDBC-supported destinations using AWS Glue DataBrew
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
