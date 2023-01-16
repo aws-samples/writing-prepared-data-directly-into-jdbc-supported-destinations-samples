@@ -25,7 +25,7 @@ For our use case, we use a mock dataset. You can download the data files from re
 Complete the following prerequisite steps:
 
     + On the Amazon S3 console, upload all three CSV files to an S3 bucket.
- ![Architecture](/image/BDB-2081-image003.png)
+ ![S3 Upload](/image/BDB-2081-image002.png)
 	+ Create the Amazon Redshift cluster to capture the product wise sales data.
 	+ Set up a security group for Amazon Redshift.
 	+ Create a schema in Amazon Redshift if required. For this post, we use the existing public schema.
